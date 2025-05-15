@@ -44,7 +44,7 @@
   width: var(--icon-button-size) !important;
   height: var(--icon-button-size) !important;
   transition: var(--backdrop_transition) !important;
-  anchor-name: --tooltip-ur3dtkw !important;
+  anchor-name: --tooltip-u1a4686 !important;
   color: inherit !important;
   flex-shrink: 0 !important;
   app-region: no-drag !important;
@@ -85,7 +85,7 @@
   content: attr(aria-label) !important;
   display: block !important;
   position: fixed !important;
-  position-anchor: --tooltip-ur3dtkw !important;
+  position-anchor: --tooltip-u1a4686 !important;
   top: calc(anchor(bottom) + var(--spacing)) !important;
   z-index: 999 !important;
   right: anchor(right) !important;

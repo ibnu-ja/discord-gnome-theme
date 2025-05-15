@@ -45,7 +45,7 @@
   width: var(--icon-button-size) !important;
   height: var(--icon-button-size) !important;
   transition: var(--backdrop_transition) !important;
-  anchor-name: --tooltip-ur3dtls !important;
+  anchor-name: --tooltip-u1a468m !important;
   app-region: no-drag !important;
 }
 .searchBar__35e86 > button:hover {
@@ -82,7 +82,7 @@
   padding: 6px 10px !important;
   display: block !important;
   position: fixed !important;
-  position-anchor: --tooltip-ur3dtls !important;
+  position-anchor: --tooltip-u1a468m !important;
   top: calc(anchor(bottom) + var(--spacing)) !important;
   z-index: 999 !important;
   left: anchor(left) !important;
