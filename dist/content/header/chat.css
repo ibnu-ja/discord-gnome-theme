@@ -119,7 +119,7 @@
   width: var(--icon-button-size) !important;
   height: var(--icon-button-size) !important;
   transition: var(--backdrop_transition) !important;
-  anchor-name: --tooltip-u1a468u !important;
+  anchor-name: --tooltip-ujw2iup !important;
   cursor: pointer !important;
   /* tooltip, the theme is english only anyway lol*/
 }
@@ -158,7 +158,7 @@
   content: attr(aria-label) !important;
   display: block !important;
   position: fixed !important;
-  position-anchor: --tooltip-u1a468u !important;
+  position-anchor: --tooltip-ujw2iup !important;
   top: calc(anchor(bottom) + var(--spacing)) !important;
   z-index: 999 !important;
   : anchor() !important;
@@ -276,7 +276,7 @@
   width: var(--icon-button-size) !important;
   height: var(--icon-button-size) !important;
   transition: var(--backdrop_transition) !important;
-  anchor-name: --tooltip-u1a469v !important;
+  anchor-name: --tooltip-ujw2ivo !important;
   position: fixed !important;
   position-anchor: --chat-topic !important;
   top: var(--spacing) !important;
@@ -320,7 +320,7 @@
   content: attr(aria-label) !important;
   display: block !important;
   position: fixed !important;
-  position-anchor: --tooltip-u1a469v !important;
+  position-anchor: --tooltip-ujw2ivo !important;
   top: calc(anchor(bottom) + var(--spacing)) !important;
   z-index: 999 !important;
   : anchor() !important;
